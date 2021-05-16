@@ -7,7 +7,7 @@
 <!--LOGO-->
 <br/>
 <div align="center">
-    <h1 color="#ffff" >Initial project config with Next Js, Typescript, ESlint and Prettier</h1>
+    <h1 color="#ffff" >Initial project config with Next Js, Typescript, ESlint, Prettier and Styled-Components</h1>
     </br>
 </div>
 
